@@ -3,7 +3,7 @@ title: "タブ内で分割､日英同時表示できるChrome拡張機能作っ
 emoji: "📖"
 type: "tech"
 topics: ["Chrome拡張", "Chrome", "ドキュメント", "翻訳", "プログラミング"]
-published: false
+published: true
 ---
 
 ## TL;DR
