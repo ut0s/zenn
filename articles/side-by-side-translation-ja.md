@@ -1,5 +1,5 @@
 ---
-title: "タブ内で分割､日英同時表示できるChrome拡張機能作った"
+title: "タブ内で原文と訳文を同時表示できるChrome拡張機能作った"
 emoji: "📖"
 type: "tech"
 topics: ["Chrome拡張", "Chrome", "ドキュメント", "翻訳", "プログラミング"]
